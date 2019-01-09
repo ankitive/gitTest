@@ -1,3 +1,4 @@
 Creating this file for github test and syn
 merge conflict resoultion learned.
 okay, hello git!
+I'm ankit. a newbie.
