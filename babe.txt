@@ -1,2 +1,4 @@
-Creating this file for github test and sync
-bla bla bla
+<<<<<<< HEAD
+Creating this file for github test and syn
+merge conflict resoultion learned.
+okay, hello git!
