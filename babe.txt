@@ -1,1 +1,2 @@
-Creating this file for github test and sync
+Creating this file for github test and syn
+okay, hello git!
